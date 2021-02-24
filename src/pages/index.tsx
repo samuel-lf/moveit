@@ -1,9 +1,13 @@
 import React from 'react';
+import { ExperienceBar } from '../components/ExperienceBar';
+import styles from '../styles/pages/Home.module.css';
 
 export default function Home() {
   return (
     <>
-      <h1>Hello</h1>
+      <div className={styles.container}>
+        <ExperienceBar />
+      </div>
     </>
   )
 }

@@ -79,3 +79,11 @@
   color: var(--text);
   cursor: not-allowed;
 }
+
+.countdownButtonFinished:disabled {
+  border-bottom: 5px solid var(--green);
+}
+
+.imageCheck {
+  margin-left: 10px;
+}

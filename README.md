@@ -6,7 +6,7 @@
 
 ## :book: Sobre
 
-**Move It** é uma aplicação que tira você da inércia, fazendo com que você seja mais saúdavel evitando perídos muito longos na frente do computador ou sem realizar atividade físicas.
+**Move It** é uma aplicação que tira você da inércia, fazendo com que você seja mais saúdavel evitando períodos muito longos na frente do computador ou sem realizar atividade físicas.
 
 <a id="tecnologias-utilizadas"></a>
 

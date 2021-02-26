@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" title="#logo" src="./public/favicon.png"/>
+  <img alt="Logo" title="#logo" src="./.github/Capa.png"/>
 </div>
 
 <a id="sobre"></a>
